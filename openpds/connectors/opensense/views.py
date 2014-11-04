@@ -103,6 +103,3 @@ def generateKey():
 
     return key
 
-def test(request):
-    print "foobar"
-    return "foobar"
